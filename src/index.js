@@ -1,5 +1,6 @@
 import React from "react";
 import { render } from "react-dom";
+import "./sass/main.scss"
 
 class BookButton extends React.Component {
   render() {
